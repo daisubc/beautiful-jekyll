@@ -57,37 +57,37 @@ The intended audience for this workshop would be researchers studying process da
 
 The following topics will be discussed in this workshop. Each topic will be accompanied by one or more industrial case studies to convey the practical relevance of process data analytic methods.
 
-### [Alf Isaksson](./speakers#alf-isaksson) (60 Minutes)
+### [Alf Isaksson](./speakers#alf-isaksson) <small>(60 Minutes)</small>
   - Industry 4.0 and analytics: A Vendor’s perspective
 
-### [Nina Thornhill](./speakers#nina-thornhill) (60 minutes)
+### [Nina Thornhill](./speakers#nina-thornhill) <small>(60 Minutes)</small>
   - Data checks and preparation
   - Unsupervised learning and clustering analysis with industrial application(s)
   - Lessons learnt from the application of analytics over the last 2 decades.
 
-### [Sirish Shah](./speakers#sirish-l-shah) (60 Minutes)
+### [Sirish Shah](./speakers#sirish-l-shah) <small>(60 Minutes)</small>
   - Data Visualization with examples
   - Broad overview of supervised learning
   - Classification and regression trees
   - Random Forests with applications
   - Support vector machines with applications.
 
-### [Biao Huang](./speakers#biao-huang) (60 Minutes)
+### [Biao Huang](./speakers#biao-huang) <small>(60 Minutes)</small>
   - Soft-sensor design
   - Preliminary analysis
   - Do’s and don’ts
   - Image based soft-sensors with industrial applications
 
-### [Manabu Kano](./speakers#manabu-kabo) (60 Minutes)
+### [Manabu Kano](./speakers#manabu-kano) <small>(60 Minutes)</small>
   - Integration of domain knowledge and data analytics for process modeling and optimization with engineering and medical applications.
 
-### [Bhushan Gopaluni](./speakers#bhushan-gopaluni) (60 Minutes)
+### [Bhushan Gopaluni](./speakers#bhushan-gopaluni) <small>(60 Minutes)</small>
   - Deep and Reinforcement learning and the future of analytics.
 
-### [Arun Tangirala](./speakers#arun-k-tangirala) (60 Minutes)
+### [Arun Tangirala](./speakers#arun-k-tangirala) <small>(60 Minutes)</small>
   - Causality analysis for reconstruction of process network and toplogy
 
-### Panel Discussion (30 Minutes)
+### Panel Discussion <small>(30 Minutes)</small>
   - Data science education for undergraduate or graduate school?
   - Is industry hard-wired and ready with ‘digital plumbing’ to do analytics?
   - What software tools are ready for deployment?

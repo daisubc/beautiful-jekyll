@@ -28,9 +28,10 @@ p {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-  line-height: 1.2;
-  margin-bottom: 1.0rem;
-  margin-top: 2.5rem;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
+  margin-top: 1.5rem;
+  letter-spacing: -0.015rem;
 }
 h1 {
   font-size: 2.25rem;
@@ -565,7 +566,7 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 5rem 0 4.5rem;
+  margin: 5rem 0 2.5rem;
   position: relative;
   color: {{ site.navbar-text-col | default: "#000000" }};
 }

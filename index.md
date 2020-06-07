@@ -1,23 +1,27 @@
 ---
 layout: page
 title: "Process Data Analytics: Leveraging The Data Revolution"
-subtitle: "IFAC 2020 Workshop"
+subtitle: "21st IFAC World Congress, Germany, July 11-17, 2020"
 show-avatar: False
 ---
+
+## Process Data Analytics Workshop
+- Saturday, July 11th, 2020
+- [IFAC Website](https://www.ifac2020.org/program.html)
 
 ![header.png](./assets/img/header2.png)
 
 # Organizers
 ## Main Organizers
-- Bhushan Gopaluni, University of British Columbia, Canada (bhushan.gopaluni@ubc.ca) 
-- Sirish L. Shah, University of Alberta, Canada (sirish.shah@ualberta.ca) 
+- Bhushan Gopaluni, University of British Columbia, Canada *(bhushan.gopaluni@ubc.ca)*
+- Sirish L. Shah, University of Alberta, Canada *(sirish.shah@ualberta.ca)*
 
 ## Co-organizers
-- Biao Huang, University of Alberta, Canada (bhuang@ualberta.ca)
-- Alf Isaksson, ABB Future Labs, Sweden (alf.isaksson@se.abb.com)
-- Manbu Kano, Kyoto University, Japan (manabu@human.sys.i.kyoto-u.ac.jp)
-- Arun Tangirala, IIT-Madras,India (arunkt@iitm.ac.in)
-- Nina Thornhill, Imperial College, UK, (n.thornhill@imperial.ac.uk)
+- Biao Huang, University of Alberta, Canada *(bhuang@ualberta.ca)*
+- Alf Isaksson, ABB Future Labs, Sweden *(alf.isaksson@se.abb.com)*
+- Manbu Kano, Kyoto University, Japan *(manabu@human.sys.i.kyoto-u.ac.jp)*
+- Arun Tangirala, IIT-Madras, India *(arunkt@iitm.ac.in)*
+- Nina Thornhill, Imperial College, UK *(n.thornhill@imperial.ac.uk)*
 
 # Overview
 

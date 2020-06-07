@@ -57,34 +57,41 @@ The intended audience for this workshop would be researchers studying process da
 
 The following topics will be discussed in this workshop. Each topic will be accompanied by one or more industrial case studies to convey the practical relevance of process data analytic methods.
 
-- ### [Alf Isaksson](./speakers) (60 Minutes)
+### [Alf Isaksson](./speakers#alf-isaksson) (60 Minutes)
   - Industry 4.0 and analytics: A Vendor’s perspective
-- ### [Nina Thornhill](./speakers) (60 minutes)
-  + Data checks and preparation
-  + Unsupervised learning and clustering analysis with industrial application(s)
-  + Lessons learnt from the application of analytics over the last 2 decades.
-- ### [Sirish Shah](./speakers) (60 Minutes)
-  + Data Visualization with examples
-  + Broad overview of supervised learning
-  + Classification and regression trees
-  + Random Forests with applications
-  + Support vector machines with applications.
-- ### [Biao Huang](./speakers) (60 Minutes)
-  + Soft-sensor design
-  + Preliminary analysis
-  + Do’s and don’ts
-  + Image based soft-sensors with industrial applications
-- ### [Manabu Kano](./speakers) (60 Minutes)
-  + Integration of domain knowledge and data analytics for process modeling and optimization with engineering and medical applications.
-- ### [Bhushan Gopaluni](./speakers) (60 Minutes)
-  + Deep and Reinforcement learning and the future of analytics.
-- ### [Arun Tangirala](./speakers) (60 Minutes)
-  + Causality analysis for reconstruction of process network and toplogy
-- ### Panel Discussion (30 Minutes)
-  + Data science education for undergraduate or graduate school?
-  + Is industry hard-wired and ready with ‘digital plumbing’ to do analytics?
-  + What software tools are ready for deployment?
-  + Other topics
+
+### [Nina Thornhill](./speakers#nina-thornhill) (60 minutes)
+  - Data checks and preparation
+  - Unsupervised learning and clustering analysis with industrial application(s)
+  - Lessons learnt from the application of analytics over the last 2 decades.
+
+### [Sirish Shah](./speakers#sirish-l-shah) (60 Minutes)
+  - Data Visualization with examples
+  - Broad overview of supervised learning
+  - Classification and regression trees
+  - Random Forests with applications
+  - Support vector machines with applications.
+
+### [Biao Huang](./speakers#biao-huang) (60 Minutes)
+  - Soft-sensor design
+  - Preliminary analysis
+  - Do’s and don’ts
+  - Image based soft-sensors with industrial applications
+
+### [Manabu Kano](./speakers#manabu-kabo) (60 Minutes)
+  - Integration of domain knowledge and data analytics for process modeling and optimization with engineering and medical applications.
+
+### [Bhushan Gopaluni](./speakers#bhushan-gopaluni) (60 Minutes)
+  - Deep and Reinforcement learning and the future of analytics.
+
+### [Arun Tangirala](./speakers#arun-k-tangirala) (60 Minutes)
+  - Causality analysis for reconstruction of process network and toplogy
+
+### Panel Discussion (30 Minutes)
+  - Data science education for undergraduate or graduate school?
+  - Is industry hard-wired and ready with ‘digital plumbing’ to do analytics?
+  - What software tools are ready for deployment?
+  - Other topics
 
 
 

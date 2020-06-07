@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Montserrat', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: #404040;
   position: relative;
@@ -26,12 +26,15 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Playfair Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
-  line-height: 1.1;
+  line-height: 1.2;
+  margin-bottom: 1.0rem;
+  margin-top: 2.5rem;
 }
 h1 {
   font-size: 2.25rem;
+  color: {{ site.navbar-text-col | default: "#000000" }};
 }
 h2 {
   font-size: 1.875rem;
@@ -112,6 +115,13 @@ img {
   margin-top: 1.875rem;
 }
 
+.speaker-img {
+  float: left;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  max-width: 140px;
+}
+
 @media (min-width: 768px) {
   .disqus-comments {
     margin-top: 2.5rem;
@@ -128,7 +138,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#F5F5F5" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -555,8 +565,9 @@ footer .footer-custom-content {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 5rem 0 1.25rem;
+  margin: 5rem 0 4.5rem;
   position: relative;
+  color: {{ site.navbar-text-col | default: "#000000" }};
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -592,7 +603,7 @@ footer .footer-custom-content {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 3rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -603,9 +614,10 @@ footer .footer-custom-content {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 0.625rem 0 0;
+  color: #404040;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
@@ -645,10 +657,10 @@ footer .footer-custom-content {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3rem;
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 2.950rem;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;

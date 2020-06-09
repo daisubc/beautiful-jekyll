@@ -5,11 +5,16 @@ subtitle: "21st IFAC World Congress, Germany, July 11-17, 2020"
 show-avatar: False
 ---
 
-## Process Data Analytics Workshop
-- Saturday, July 11th, 2020
-- [IFAC Website](https://www.ifac2020.org/program.html)
-
 ![header.png](./assets/img/header2.png)
+
+# Process Data Analytics Workshop
+- For full conference schedule, see [IFAC Website](https://www.ifac2020.org/program.html)
+- **Workshop date:** Saturday, July 11th 2020
+- **Registration date:** June 8th - July 5th 2020
+
+<div class="text-center">
+  <a class="btn btn-block btn-primary btn-lg" target="_blank" href="https://www.ifac2020.org/registration/" role="button">Register Now</a>
+</div>
 
 # Organizers
 ## Main Organizers
@@ -97,12 +102,10 @@ The following topics will be discussed in this workshop. Each topic will be acco
   - What software tools are ready for deployment?
   - Other topics
 
-
-
 ## Total time:  
 - 7 hrs and 30 mins for sessions
 - 30 mins for tea/coffee
-- 1 hour for lunch.
+- 1 hour for lunch
 
 # References
 
